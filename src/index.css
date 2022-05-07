@@ -110,7 +110,7 @@ button {
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.2);
   z-index: 5000;
   display: flex;
   justify-content: center;
@@ -121,7 +121,7 @@ button {
   width: 64px;
   height: 64px;
   border: 8px solid;
-  border-color: #00cc66 transparent #00cc66 transparent;
+  border-color: #e51f4d transparent #e51f4d transparent;
   border-radius: 50%;
   animation: spin 1.2s linear infinite;
 }
@@ -181,7 +181,7 @@ button {
   color: #8f8f8f;
 }
 .navbarListItemNameActive {
-  color: #2c2c2c;
+  color: #820623;
 }
 
 .nameInput {
@@ -220,7 +220,7 @@ button {
 
 .signInBar,
 .signUpBar {
-  margin-top: 3rem;
+  margin-top: 1rem;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -264,7 +264,7 @@ button {
 }
 
 .socialLogin {
-  margin-top: 4rem;
+  margin-top: 1rem;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -276,7 +276,7 @@ button {
   justify-content: center;
   align-items: center;
   padding: 0.75rem;
-  margin: 1.5rem;
+  margin: .5rem;
   width: 3rem;
   height: 3rem;
   background-color: #ffffff;
