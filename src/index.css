@@ -792,7 +792,7 @@ button {
 .formInputFile {
   width: 100%;
 }
-.formInputFile::-webkit-file-upload-button {
+.formInputFile::file-selector-button {
   background-color: #ec1145;
   border: none;
   color: #ffffff;
