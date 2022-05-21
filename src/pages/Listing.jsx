@@ -35,7 +35,7 @@ function Listing() {
   }
 
   return (
-    <div>Listing {listing}</div>
+    <div>Listing {listing.name}</div>
   )
 }
 
